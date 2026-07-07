@@ -1,5 +1,7 @@
 # 🚀 科技共享专属 - PaaS 平台双核节点部署架构 (sing-box + Argo)
 
+详细视频教程：https://youtu.be/_FO55_gZKx0?si=AUqs9whiMHi1AXbr
+
 本项目由 YouTube 频道 **[@科技共享](https://www.youtube.com/@kejigongxiang/)** 深度定制与开源。
 
 专为内存及性能受限的免费云平台（如 DCDeploy、Koyeb、Hugging Face 等）设计，采用高级的 Docker 多阶段构建，在极简底座中同时运行 **sing-box（代理内核）** 与 **cloudflared（穿透内核）**。支持 `http2` 协议防封锁，纯净、轻量、稳定。
